@@ -16,7 +16,7 @@ public class ConditionPractice {
 		System.out.println("메뉴번호를 입력하세요");
 		int num = sc.nextInt();
 		sc.nextLine();
-		     
+		      
 		switch (num) {
 		case 1:
 			System.out.println("입력메뉴입니다");

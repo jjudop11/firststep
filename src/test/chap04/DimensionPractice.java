@@ -1,9 +1,9 @@
-packag e test.chap04;
+package test.chap04;
 
 import java.util.Scanner;
 
 public class DimensionPractice {
-	
+	 
 	private	Scanner sc = new Scanner(System.in);
 	
 	public void practice1() {
