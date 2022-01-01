@@ -20,7 +20,7 @@ public class DimensionPractice {
 			}
 			System.out.println();
 		}
-		
+		 
 	}
 	
 	public void practice2() {

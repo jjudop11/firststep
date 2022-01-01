@@ -19,7 +19,7 @@ public class ArrayPractice {
 		}
 		
 	}
-	
+	 
 	public void practice2() {
 		
 		int[] arr = new int[10];

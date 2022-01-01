@@ -14,7 +14,7 @@ public class OperatorPractice {
 		
 		System.out.println(num > 0? "양수다":"양수가 아니다");
 		
-		
+		 
 	}
 	
 	public void practice2() {
