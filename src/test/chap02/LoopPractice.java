@@ -17,7 +17,7 @@ public class LoopPractice {
 			for(int i = 1; i <= num; i++) {
 				System.out.print(i+" ");
 			}
-			    
+			     
 		} else {
 			System.out.println("잘못 입력하셨습니다.");
 		}
