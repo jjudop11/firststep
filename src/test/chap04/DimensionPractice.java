@@ -18,7 +18,7 @@ public class DimensionPractice {
 				arr[i][j] = count++;
 				System.out.printf("%3d",arr[i][j]);
 			}
-			System.out.println();
+			System.out.println(); 
 		}
 		   
 	}
